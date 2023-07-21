@@ -1,0 +1,67 @@
+#liste_aut {
+    border-style: inset;
+    border-width: 2px;
+    border-color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+}
+
+.bloc_droit {
+    width: 40%;
+}
+
+.bloc_gauche {
+    width: 45%;
+}
+
+#chercheur {
+    margin-top: 5px;
+    width: 12rem;
+    padding: 0.3rem;
+}
+
+.SectionAjout>p:first-of-type {
+    text-decoration: underline;
+    font-size: 1.5rem;
+}
+
+.bloc {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.pChamp {
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
+}
+
+p {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.visible {
+    display: block;
+}
+
+.invisible {
+    display: none;
+}
+
+.addauteur {
+    border: 3px inset black;
+    padding: 5px;
+}
+
+.addauteur>input {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding: 3px;
+}
+
+#showAuteurBtn {
+    padding: 3px;
+}

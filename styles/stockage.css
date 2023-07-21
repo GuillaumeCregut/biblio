@@ -1,0 +1,20 @@
+#liste_aut {
+    border-style: inset;
+    border-width: 2px;
+    border-color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 35%;
+}
+
+#chercheur {
+    margin-top: 5px;
+    width: 12rem;
+    padding: 0.3rem;
+}
+
+.SectionAjout>p:first-of-type {
+    text-decoration: underline;
+    font-size: 1.5rem;
+}

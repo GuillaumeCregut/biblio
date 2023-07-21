@@ -1,0 +1,5 @@
+templates_c/
+include/config.inc.php
+test*
+tempo*
+squelette.php
